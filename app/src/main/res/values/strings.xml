@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GameMatch3</string>
+    <string name="MissionDialogNumber">Уровень</string>
+    <integer name="_counting">0</integer>
 </resources>
